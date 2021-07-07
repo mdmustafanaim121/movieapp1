@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Ticket Page component initial Snapshot 1`] = `
+<div
+  className="tpHeight"
+>
+  <canvas
+    className="particles-bg-canvas-self"
+    onMouseDown={[Function]}
+    style={
+      Object {
+        "height": "100%",
+        "left": 0,
+        "position": "absolute",
+        "top": 0,
+        "width": "100%",
+        "zIndex": -1,
+      }
+    }
+  />
+  <div
+    className="md1"
+  >
+    <div
+      className="tpCardLeft"
+    >
+      <canvas
+        height="300"
+        style={
+          Object {
+            "height": "300",
+            "width": "300",
+          }
+        }
+        width="300"
+      />
+      <br />
+      <h3
+        className="tpBg"
+      >
+         Scan the QR Code using your mobile device
+      </h3>
+    </div>
+    <div
+      className="tpStyle"
+    >
+      <div
+        className="tpStyle2"
+      />
+    </div>
+    <div
+      className="tpStyle3"
+    >
+      <img
+        alt="Movie"
+        className="mdImage1"
+        src="https://image.ibb.co/f0hhZc/bp.jpg"
+      />
+      <h2
+        className="mdText"
+      >
+        Black Panther
+      </h2>
+      <h3
+        className="mdcardText1"
+      >
+        Date: 
+        2021-07-21
+      </h3>
+      <h3
+        className="mdcardText1"
+      >
+        Time: 
+        7:30 pm
+      </h3>
+      <h3
+        className="mdcardText1"
+      >
+        No of Seats: 
+        1
+      </h3>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,311 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Movies Details component Movie Details snapshot 1`] = `
+<div>
+  <canvas
+    className="particles-bg-canvas-self"
+    onMouseDown={[Function]}
+    style={
+      Object {
+        "height": "100%",
+        "left": 0,
+        "position": "absolute",
+        "top": 0,
+        "width": "100%",
+        "zIndex": -1,
+      }
+    }
+  />
+  <div
+    className="md1"
+  >
+    <div
+      className="mdcard"
+    >
+      <img
+        alt="Movie"
+        className="mdImage1"
+        src="https://image.ibb.co/f0hhZc/bp.jpg"
+      />
+    </div>
+    <div
+      className="mdcardText"
+    >
+      <h2
+        className="mdText"
+      >
+        Black Panther
+      </h2>
+      <h3
+        className="mdcardText1"
+      >
+        ENGLISH
+      </h3>
+      <h3
+        className="mdcardText1"
+      >
+        2hrs and 40 min
+      </h3>
+      <h3
+        className="mdcardText1"
+      >
+        Action Adventure Fantasy
+      </h3>
+      <span
+        aria-label={undefined}
+        className={undefined}
+        id={undefined}
+        style={
+          Object {
+            "direction": "ltr",
+            "display": "inline-block",
+          }
+        }
+        tabIndex={undefined}
+      >
+        <span
+          onClick={[Function]}
+          onMouseMove={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          style={
+            Object {
+              "cursor": "inherit",
+              "display": "inline-block",
+              "position": "relative",
+            }
+          }
+        >
+          <span
+            style={
+              Object {
+                "visibility": "hidden",
+              }
+            }
+          >
+            <img
+              alt="Movie"
+              className="mdRating"
+              src="star-grey.png"
+            />
+          </span>
+          <span
+            style={
+              Object {
+                "display": "inline-block",
+                "left": 0,
+                "overflow": "hidden",
+                "position": "absolute",
+                "top": 0,
+                "width": "100%",
+              }
+            }
+          >
+            <img
+              alt="Movie"
+              className="mdRating"
+              src="star-yellow.png"
+            />
+          </span>
+        </span>
+        <span
+          onClick={[Function]}
+          onMouseMove={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          style={
+            Object {
+              "cursor": "inherit",
+              "display": "inline-block",
+              "position": "relative",
+            }
+          }
+        >
+          <span
+            style={
+              Object {
+                "visibility": "hidden",
+              }
+            }
+          >
+            <img
+              alt="Movie"
+              className="mdRating"
+              src="star-grey.png"
+            />
+          </span>
+          <span
+            style={
+              Object {
+                "display": "inline-block",
+                "left": 0,
+                "overflow": "hidden",
+                "position": "absolute",
+                "top": 0,
+                "width": "100%",
+              }
+            }
+          >
+            <img
+              alt="Movie"
+              className="mdRating"
+              src="star-yellow.png"
+            />
+          </span>
+        </span>
+        <span
+          onClick={[Function]}
+          onMouseMove={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          style={
+            Object {
+              "cursor": "inherit",
+              "display": "inline-block",
+              "position": "relative",
+            }
+          }
+        >
+          <span
+            style={
+              Object {
+                "visibility": "hidden",
+              }
+            }
+          >
+            <img
+              alt="Movie"
+              className="mdRating"
+              src="star-grey.png"
+            />
+          </span>
+          <span
+            style={
+              Object {
+                "display": "inline-block",
+                "left": 0,
+                "overflow": "hidden",
+                "position": "absolute",
+                "top": 0,
+                "width": "100%",
+              }
+            }
+          >
+            <img
+              alt="Movie"
+              className="mdRating"
+              src="star-yellow.png"
+            />
+          </span>
+        </span>
+        <span
+          onClick={[Function]}
+          onMouseMove={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          style={
+            Object {
+              "cursor": "inherit",
+              "display": "inline-block",
+              "position": "relative",
+            }
+          }
+        >
+          <span
+            style={
+              Object {
+                "visibility": "hidden",
+              }
+            }
+          >
+            <img
+              alt="Movie"
+              className="mdRating"
+              src="star-grey.png"
+            />
+          </span>
+          <span
+            style={
+              Object {
+                "display": "inline-block",
+                "left": 0,
+                "overflow": "hidden",
+                "position": "absolute",
+                "top": 0,
+                "width": "100%",
+              }
+            }
+          >
+            <img
+              alt="Movie"
+              className="mdRating"
+              src="star-yellow.png"
+            />
+          </span>
+        </span>
+        <span
+          onClick={[Function]}
+          onMouseMove={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          style={
+            Object {
+              "cursor": "inherit",
+              "display": "inline-block",
+              "position": "relative",
+            }
+          }
+        >
+          <span
+            style={Object {}}
+          >
+            <img
+              alt="Movie"
+              className="mdRating"
+              src="star-grey.png"
+            />
+          </span>
+          <span
+            style={
+              Object {
+                "display": "inline-block",
+                "left": 0,
+                "overflow": "hidden",
+                "position": "absolute",
+                "top": 0,
+                "width": "50%",
+              }
+            }
+          >
+            <img
+              alt="Movie"
+              className="mdRating"
+              src="star-yellow.png"
+            />
+          </span>
+        </span>
+      </span>
+      <br />
+      <div
+        className="mdpara1"
+      >
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+      </div>
+      <span
+        className="mdButton"
+      >
+        <button
+          className="btn btn-info btn-block btn-lg"
+          disabled={false}
+          onClick={[Function]}
+          type="button"
+        >
+          Book Now
+        </button>
+      </span>
+    </div>
+  </div>
+</div>
+`;

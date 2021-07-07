@@ -1,0 +1,236 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Latest Movies component initial Snapshot 1`] = `
+<div>
+  <canvas
+    className="particles-bg-canvas-self"
+    onMouseDown={[Function]}
+    style={
+      Object {
+        "height": "100%",
+        "left": 0,
+        "position": "absolute",
+        "top": 0,
+        "width": "100%",
+        "zIndex": -1,
+      }
+    }
+  />
+  <h1
+    className="header1"
+  >
+    Showing Now
+  </h1>
+  <div />
+  <div
+    className="d1"
+  >
+    <div
+      className="sc-jSFjdj jvXOvp rec rec-carousel-wrapper "
+      style={Object {}}
+    >
+      <div
+        className="sc-eCApnc jCKguF rec rec-carousel"
+        size={
+          Object {
+            "height": 0,
+          }
+        }
+        style={
+          Object {
+            "height": 0,
+          }
+        }
+      >
+        <button
+          className="sc-bdnxRM ehkxHv rec rec-arrow rec rec-arrow-left"
+          disabled={true}
+          onClick={[Function]}
+          style={Object {}}
+          tabIndex={0}
+          type="button"
+        >
+          ❮
+        </button>
+        <div
+          className="sc-dlnjwi dTGAUq rec rec-slider-container"
+        >
+          <div
+            className="sc-hKFxyN gXEQKd rec rec-slider"
+            style={
+              Object {
+                "left": "0px",
+                "right": "auto",
+                "top": "auto",
+                "transition": "all 500ms ease",
+              }
+            }
+          >
+            <div
+              className="rec rec-swipable"
+              style={
+                Object {
+                  "display": "flex",
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <div
+                className="rec rec-carousel-item rec-carousel-item-0 rec-carousel-item-visible"
+              >
+                <div
+                  className="sc-gtsrHT cAlXfM rec rec-item-wrapper"
+                  id={0}
+                  onClick={[Function]}
+                  style={
+                    Object {
+                      "padding": "0px 0px 0px 0px",
+                      "width": "0px",
+                    }
+                  }
+                >
+                  <div
+                    tabIndex={0}
+                  >
+                    <img
+                      alt="Movie"
+                      className="img1"
+                      src="https://image.ibb.co/f0hhZc/bp.jpg"
+                    />
+                    <h2
+                      className="header2"
+                    >
+                      Black Panther
+                    </h2>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="rec rec-carousel-item rec-carousel-item-1 rec-carousel-item-hidden rec-carousel-item-next"
+              >
+                <div
+                  className="sc-gtsrHT cAlXfM rec rec-item-wrapper"
+                  id={1}
+                  onClick={[Function]}
+                  style={
+                    Object {
+                      "padding": "0px 0px 0px 0px",
+                      "width": "0px",
+                    }
+                  }
+                >
+                  <div
+                    tabIndex={-1}
+                  >
+                    <img
+                      alt="Movie"
+                      className="img1"
+                      src="https://image.ibb.co/f0hhZc/bp.jpg"
+                    />
+                    <h2
+                      className="header2"
+                    >
+                      Black Cat
+                    </h2>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <button
+          className="sc-bdnxRM cGKbZh rec rec-arrow rec rec-arrow-right"
+          disabled={false}
+          onClick={[Function]}
+          style={Object {}}
+          tabIndex={0}
+          type="button"
+        >
+          ❯
+        </button>
+      </div>
+      <div
+        className="sc-iCoGMd xzcEF rec rec-pagination"
+      >
+        <button
+          className="sc-gKAaRy ejXxNI rec rec-dot rec rec-dot_active"
+          onClick={[Function]}
+          tabIndex={-1}
+          type="button"
+        />
+        <button
+          className="sc-gKAaRy jLgnwX rec rec-dot "
+          onClick={[Function]}
+          tabIndex={0}
+          type="button"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    className="header2"
+  >
+    <h3>
+      Recommended Movies
+    </h3>
+    <div
+      className="card-group"
+    >
+      <div
+        className="card border-dark"
+      >
+        <img
+          className="card-img-top card1"
+          src="https://image.ibb.co/f0hhZc/bp.jpg"
+        />
+        <div
+          border="dark"
+          className="card-body"
+        >
+          <hr />
+          <div
+            className="card-title h5"
+          >
+            Black Panther
+          </div>
+          <button
+            className="btn btn-primary"
+            disabled={false}
+            onClick={[Function]}
+            type="button"
+          >
+            Book
+          </button>
+        </div>
+      </div>
+      <div
+        className="card border-dark"
+      >
+        <img
+          className="card-img-top card1"
+          src="https://image.ibb.co/f0hhZc/bp.jpg"
+        />
+        <div
+          border="dark"
+          className="card-body"
+        >
+          <hr />
+          <div
+            className="card-title h5"
+          >
+            Black Cat
+          </div>
+          <button
+            className="btn btn-primary"
+            disabled={false}
+            onClick={[Function]}
+            type="button"
+          >
+            Book
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

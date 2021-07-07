@@ -1,0 +1,103 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Latest Movies component initial Snapshot 1`] = `
+<div>
+  <canvas
+    className="particles-bg-canvas-self"
+    onMouseDown={[Function]}
+    style={
+      Object {
+        "height": "100%",
+        "left": 0,
+        "position": "absolute",
+        "top": 0,
+        "width": "100%",
+        "zIndex": -1,
+      }
+    }
+  />
+  <h1
+    className="heading1"
+  >
+    Upcoming Movies
+  </h1>
+  <div
+    className="d1"
+  >
+    <div
+      className="sc-jSFjdj jvXOvp rec rec-carousel-wrapper "
+      style={Object {}}
+    >
+      <div
+        className="sc-eCApnc jCKguF rec rec-carousel"
+        size={
+          Object {
+            "height": 0,
+          }
+        }
+        style={
+          Object {
+            "height": 0,
+          }
+        }
+      >
+        <button
+          className="sc-bdnxRM ehkxHv rec rec-arrow rec rec-arrow-left"
+          disabled={true}
+          onClick={[Function]}
+          style={Object {}}
+          tabIndex={0}
+          type="button"
+        >
+          ❮
+        </button>
+        <div
+          className="sc-dlnjwi dTGAUq rec rec-slider-container"
+        >
+          <div
+            className="sc-hKFxyN gXEQKd rec rec-slider"
+            style={
+              Object {
+                "left": "0px",
+                "right": "auto",
+                "top": "auto",
+                "transition": "all 500ms ease",
+              }
+            }
+          >
+            <div
+              className="rec rec-swipable"
+              style={
+                Object {
+                  "display": "flex",
+                  "flexDirection": "row",
+                }
+              }
+            />
+          </div>
+        </div>
+        <button
+          className="sc-bdnxRM ehkxHv rec rec-arrow rec rec-arrow-right"
+          disabled={true}
+          onClick={[Function]}
+          style={Object {}}
+          tabIndex={0}
+          type="button"
+        >
+          ❯
+        </button>
+      </div>
+      <div
+        className="sc-iCoGMd xzcEF rec rec-pagination"
+      >
+        <button
+          className="sc-gKAaRy ejXxNI rec rec-dot rec rec-dot_active"
+          onClick={[Function]}
+          tabIndex={-1}
+          type="button"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
